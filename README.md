@@ -53,8 +53,8 @@ All the visualization outputs of tableau (each indicators output worksheets, sto
 https://public.tableau.com/app/profile/fekadu.habteyohannes/viz/NYCCitiBikeAnalysis_16832194582680/TopTenStartingStations2?publish=yes
 # 3. Drawing conclusions
 Some basic conclusions are flagged in each visualization story and dashboard. Additional major conclusions are able to be drawn from the analysis as follows:
-    1.	Vast majority of riders are male and most of them are in age category of 18-29 fallowed by age group of 53-68. Youth are the main users of ridership. youth takes longer trip duration(may be for entertainment)
-    2.	In summer season the pick hours is from 6:30am to 8:30am and afternoon from 4:30pm to 6:30pm summer months. This seems job entry/exit or coming in/out time from work. During summer from 3pm to 6pm is the peak hours when bikes are used (exit/coming out from work)
-    3.	New stations are established in the year 2020 the locations are seems to be aligned with the city expansion and populations of neighborhoods.
-    4.	Within 24 hours of a day 2am to 4am is assumed to be ideal time for bike maintenance.
-    5.	The bottom ten stations are having very few ridership records that shows they are not functioning properly. Due considerations is required to  make decision on these satiations after further assessment
+    1.	Vast majority of riders are male and most of them are in age category of 18-29 fallowed by age group of 53-68. Youth are the main users of ridership. youth take longer trip duration (may be for entertainment)
+    2. In summer season the pick hours is from 6:30am to 8:30am and afternoon from 4:30pm to 6:30pm summer months. This seems job entry/exit or coming in/out time from work. During summer from 3pm to 6pm is the peak hours when bikes are used (exit/coming out from work)
+    3. New stations are established in the year 2020 the locations are seemed to be aligned with the city expansion and populations of neighborhoods.
+    4. Within 24 hours of a day 2am to 4am is assumed to be ideal time for bike maintenance.
+    5. The bottom ten stations are having very few ridership records that shows they are not functioning properly. Due considerations is required to make decision on these satiations after further assessment.
